@@ -14,7 +14,6 @@
 
 ---
 
-
 ## 🛠️ Tech Stack
 
 ### 💻 Frontend
@@ -56,6 +55,11 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0079BF?style=flat&logo=trello&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
+![Notepad++](https://img.shields.io/badge/Notepad++-90B83B?style=flat&logo=notepad++&logoColor=white)
 
 ---
 
@@ -69,9 +73,9 @@
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ciavel-montenegro-5a2165229/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=firefox&logoColor=white)](https://github.com/m-ciavel)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ciavelm18@gmail.com)
+**Email**: ciavelm18@gmail.com  
+**LinkedIn**: [Ciavel Montenegro](https://www.linkedin.com/in/ciavel-montenegro-5a2165229/)  
+**Portfolio**: [Portfolio](https://github.com/m-ciavel)
 
 ---
 
