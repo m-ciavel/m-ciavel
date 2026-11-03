@@ -7,7 +7,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Currently studying **B.S. Computer Science** at **Batangas State University - Alangilan**
+- 🎓 Studied **B.S. Computer Science** at **Batangas State University - Alangilan**
 - 🌱 Exploring **full-stack development** — from clean front-ends to powerful back-ends
 - 💡 Interested in **React, Node.js, MongoDB, Three.js**, and creating cool projects
 - 🧠 Always curious and learning something new
@@ -60,14 +60,6 @@
 ![Trello](https://img.shields.io/badge/Trello-0079BF?style=flat&logo=trello&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
 ![Notepad++](https://img.shields.io/badge/Notepad++-90B83B?style=flat&logo=notepad++&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=m-ciavel&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-ciavel&layout=compact&theme=radical)
 
 ---
 
